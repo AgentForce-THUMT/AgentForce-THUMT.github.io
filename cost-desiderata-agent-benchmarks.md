@@ -10,7 +10,7 @@ To further demonstrate the significance of *cost* for LLM-powered agents, we con
 
 ## Why Cost? And Cost Categories
 
-TODO
+TODO: Add cost categorization texts
 
 ## C-WebShop
 
@@ -18,15 +18,15 @@ Motivated by the cost desiderata and categories, we integrate several types of c
 
 Try out C-WebShop at the live site [here]()!
 
-TODO
+TODO: Add summarized construction process
 
 ## Performance of Existing Techniques
 
-TODO
+TODO: Add performance comparison tables
 
 ## LLM-Powered Agents Go Realistic
 
-TODO
+TODO: Add call for participation insights
 
 ## Authors
 
