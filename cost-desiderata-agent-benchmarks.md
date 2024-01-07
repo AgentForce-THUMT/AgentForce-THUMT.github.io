@@ -30,11 +30,9 @@ TODO
 
 ## Authors
 
-This project is co-led by [Zonghan Yang](https://minicheshire.github.io), [An Liu](https://github.com/xxmlala), and [Zijun Liu](https://github.com/BBQGOD).
-
-This project is not possible without the following members (in alphabetical order):
+This project is co-led by [Zonghan Yang](https://minicheshire.github.io), [An Liu](https://github.com/xxmlala), and [Zijun Liu](https://github.com/BBQGOD). This project is not possible without the following members (in alphabetical order):
 - **Graduate students and Postdocs:** Zhicheng Guo, Yile Wang, Zeyuan Yang.
 - **Undergraduate students:** Xinrui Chen, Qingyuan Hu, Kaiming Liu, Fangzhou Xiong, Zhenhe Zhang.
 - **Additional Acknowledgements:** Chi Chen, Sijie Cheng, Fuwen Luo, Ziyue Wang, Siyu Wang, Xiaolong Wang.
 
-The project is advised by Professors [Peng Li](https://www.lpeng.net/) and [Yang Liu](https://nlp.csai.tsinghua.edu.cn/~ly). 
+This project is advised by [Peng Li](https://www.lpeng.net/) and [Yang Liu](https://nlp.csai.tsinghua.edu.cn/~ly). 
