@@ -35,6 +35,6 @@ This project is co-led by [Zonghan Yang](https://minicheshire.github.io), [An Li
 This project is not possible without the following members (in alphabetical order):
 - **Graduate students and Postdocs:** Zhicheng Guo, Yile Wang, Zeyuan Yang.
 - **Undergraduate students:** Xinrui Chen, Qingyuan Hu, Kaiming Liu, Fangzhou Xiong, Zhenhe Zhang.
-Acknowledgements also go to the following members: Chi Chen, Sijie Cheng, Fuwen Luo, Ziyue Wang, Siyu Wang, Xiaolong Wang.
+- **Additional Acknowledgements:** Chi Chen, Sijie Cheng, Fuwen Luo, Ziyue Wang, Siyu Wang, Xiaolong Wang.
 
-The project is advised by [Peng Li](https://www.lpeng.net/) and [Yang Liu](https://nlp.csai.tsinghua.edu.cn/~ly). 
+The project is advised by Professors [Peng Li](https://www.lpeng.net/) and [Yang Liu](https://nlp.csai.tsinghua.edu.cn/~ly). 
