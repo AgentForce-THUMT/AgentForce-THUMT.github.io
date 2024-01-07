@@ -21,9 +21,9 @@ Try out C-WebShop at the live site [here]()!
 TODO: Add a video here.
 
 The design of C-WebShop integrates the costs from the agent itself, the user to be assisted, and the environment to be interacted with. In C-WebShop, 
-- The agent's own monetary and time expenditures are measured and meant to be minimized as well. 
+- The agent needs to minimize its own monetary and time expenditures in addition to completing the tasks. 
 - The agent needs to analyze the user's initial profile, tracking and inferring a series of shopping instructions. This incurs the cost for agents to align with human intentions.
-- The search results in C-WebShop constantly evolve with the historical click actions because of a reranking sorting mechanism. This incurs the cost when agents attempt to explore the environment.
+- The search results in C-WebShop evolve with the historical click actions because of a reranking sorting mechanism. This incurs the cost when agents attempt to explore the environment.
 
 TODO: Add summarized construction process
 
